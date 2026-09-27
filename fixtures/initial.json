@@ -1,0 +1,4 @@
+[
+  {"id":"crm-001","name":"Demo Alex","email":"alex@example.test","status":"active","updated_at":"2026-09-01T12:00:00Z"},
+  {"id":"crm-002","name":"Demo Sam","email":"sam@example.test","status":"lead","updated_at":"2026-09-01T13:00:00Z"}
+]
